@@ -8,13 +8,12 @@ body{
     height: 100vh;
     background-color: black;
     color: white;
-    display: flex;
     align-items: center;
     justify-content: center;
 }
 .btn{
-    width: 20%;
-    height: 20%;
+    width: 10%;
+    height: 10%;
     background-color: white;
     border: aqua;
     border-radius: 10%;
